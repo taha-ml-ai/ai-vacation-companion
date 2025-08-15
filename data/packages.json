@@ -1,0 +1,62 @@
+[
+  {
+    "id": "bali_relax6",
+    "name": "Bali Relax & Surf 6N",
+    "destination_id": "bali",
+    "budget": "medium",
+    "nights": 6,
+    "price": 1200,
+    "activities": "beach, surfing, culture",
+    "highlights": "Beachfront hotel, Uluwatu temple, surf lessons"
+  },
+  {
+    "id": "bali_budget5",
+    "name": "Bali on a Budget 5N",
+    "destination_id": "bali",
+    "budget": "low",
+    "nights": 5,
+    "price": 750,
+    "activities": "beach, culture",
+    "highlights": "Guesthouse, Tanah Lot, local food tour"
+  },
+  {
+    "id": "alps_ski7",
+    "name": "Swiss Alps Ski 7N",
+    "destination_id": "swiss_alps",
+    "budget": "high",
+    "nights": 7,
+    "price": 2800,
+    "activities": "skiing, mountains",
+    "highlights": "Ski pass, chalet, fondue dinner"
+  },
+  {
+    "id": "kyoto_culture6",
+    "name": "Kyoto Culture 6N",
+    "destination_id": "kyoto",
+    "budget": "medium",
+    "nights": 6,
+    "price": 1900,
+    "activities": "culture, temples",
+    "highlights": "Temple tour, tea ceremony, Arashiyama bamboo grove"
+  },
+  {
+    "id": "marrakech_desert5",
+    "name": "Marrakech & Desert 5N",
+    "destination_id": "marrakech",
+    "budget": "low",
+    "nights": 5,
+    "price": 900,
+    "activities": "desert, culture, markets",
+    "highlights": "Riad stay, souk tour, Sahara day trip"
+  },
+  {
+    "id": "reykjavik_northern5",
+    "name": "Iceland Northern Lights 5N",
+    "destination_id": "reykjavik",
+    "budget": "high",
+    "nights": 5,
+    "price": 2300,
+    "activities": "northern lights, adventure",
+    "highlights": "Aurora hunt, Golden Circle, Blue Lagoon"
+  }
+]

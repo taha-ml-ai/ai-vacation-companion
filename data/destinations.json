@@ -1,0 +1,42 @@
+[
+  {
+    "id": "bali",
+    "name": "Bali",
+    "country": "Indonesia",
+    "climate": "warm",
+    "activities": "beach, surfing, culture, relaxation",
+    "description": "Tropical beaches, temples, yoga retreats and surf spots."
+  },
+  {
+    "id": "swiss_alps",
+    "name": "Swiss Alps",
+    "country": "Switzerland",
+    "climate": "cold",
+    "activities": "skiing, mountains, snowboarding, hiking",
+    "description": "Snowy peaks, ski resorts, alpine villages and scenic trains."
+  },
+  {
+    "id": "kyoto",
+    "name": "Kyoto",
+    "country": "Japan",
+    "climate": "mild",
+    "activities": "culture, temples, cherry blossoms, tea houses",
+    "description": "Historic temples, tranquil gardens and traditional streets."
+  },
+  {
+    "id": "marrakech",
+    "name": "Marrakech",
+    "country": "Morocco",
+    "climate": "warm",
+    "activities": "markets, desert, culture, adventure",
+    "description": "Lively souks, palaces and Sahara excursions."
+  },
+  {
+    "id": "reykjavik",
+    "name": "Reykjavik",
+    "country": "Iceland",
+    "climate": "cold",
+    "activities": "northern lights, glaciers, adventure, hot springs",
+    "description": "Northern lights, glaciers, geysers and Blue Lagoon."
+  }
+]
